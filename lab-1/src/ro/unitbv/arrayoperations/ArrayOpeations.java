@@ -62,7 +62,7 @@ public class ArrayOpeations {
 		// b. copiem toate elementele vechi in array-ul nou
 		// c. adaugam elementul nou
 		
-		// In ArrayList modificarile sunt scumpe
+		// In ArrayList modificarile su nt scumpe
 		
 		// 2. Listesle inlantuite 
 		// LinkedList
