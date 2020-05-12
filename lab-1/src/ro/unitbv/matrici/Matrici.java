@@ -1,5 +1,7 @@
 package ro.unitbv.matrici;
 
+import java.util.Set;
+
 public class Matrici {
 
 	public static void main(String[] args) {
@@ -94,7 +96,7 @@ public class Matrici {
     }
 
 	static void parcurgeriMatrici() {
-
+		
 	}
 
 }
